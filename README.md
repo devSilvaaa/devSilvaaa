@@ -12,7 +12,9 @@
   </a>
 </p>
 
-![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=devsilvaaa&show_icons=true&theme=midnight-purple)
+<p>
+  ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=devsilvaaa&show_icons=true&theme=midnight-purple)
+</p>
 
 ### <span style="color:#800080;">Studying 📚</span>
 
@@ -27,4 +29,6 @@
 
 <p>
   <span style="color:#800080; font-family:Arial, sans-serif;">
-    Viver pela tecnologia, transformar minha paixão em profissão, sustentar meus hobbies e faze
+    Viver pela tecnologia, transformar minha paixão em profissão, sustentar meus hobbies e fazer do que amo meu estilo de vida.
+  </span>
+</p>
